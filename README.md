@@ -1,11 +1,11 @@
 ### Hi there 👋
-## Tech Stack:
-<div align="center">
+</br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ibnunazm&show_icons=true&theme=tokyonight)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnunazm&layout=compact&theme=tokyonight)
-</div>  
 
-</br>
+## Tech Stack:
+<br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 

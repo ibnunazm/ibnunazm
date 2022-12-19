@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ibnunazm&show_icons=true&theme=discord_old_burple)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ibnunazm&show_icons=true&theme=tokyonight)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnunazm&layout=compact&theme=discord_old_burple)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnunazm&layout=compact&theme=tokyonight)
 
 <!--
 **ibnunazm/ibnunazm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

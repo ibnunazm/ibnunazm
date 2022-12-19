@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Ibnu Naz'm Ar-rosyid's GitHub Profile
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ibnunazm&show_icons=true&theme=discord_old_burple)
 

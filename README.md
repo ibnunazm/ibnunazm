@@ -1,4 +1,4 @@
-### Don't panic, its organic
+### Don't panic... 
 </br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ibnunazm&show_icons=true&theme=tokyonight)

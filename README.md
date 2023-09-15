@@ -7,4 +7,4 @@
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibnunazm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibnunazm)
 
-[![](https://visitcount.itsvg.in/api?id=ibnunazm&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ibnunazm&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
